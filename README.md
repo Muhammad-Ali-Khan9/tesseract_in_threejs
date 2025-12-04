@@ -82,8 +82,3 @@ You can modify the following in `tesseract.js`:
 - Colors: Modify the material colors (cyan `0x00ffff`, magenta `0xff00ff`)
 - Camera position: Adjust `camera.position.set()` values
 - Cube size: Change the `size` variable
-
-## License
-
-This project is open source and available for personal and educational use.
-
